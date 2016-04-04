@@ -4,6 +4,12 @@ http://0.0.0.0:1234
  
 #EXTINF:0,Tolo
 http://stream.ssh101.com:1935/live/ppp3/playlist.m3u8
+
+#EXTINF:0,BBC Persian
+http://63.237.48.23/ios/BBC_PERSIAN/BBC_PERSIAN.m3u8
+
+#EXTINF:0,PMC
+http://63.237.48.23/ios/PMC/PMC.m3u8
  
 #EXTINF:0,Arezu
 http://38.101.217.15:1935/ilink/live.arezo/chunklist.m3u8?wowzasessionid=373629829
@@ -16,7 +22,7 @@ http://38.101.217.15:1935/ilink/live3.stream/chunklist.m3u8?wowzasessionid=18728
 http://38.101.217.15:1935/ilink/live1tv/media_82.ts?wowzasessionid=1992445668
  
 #EXTINF:0,Khorshid
-http://38.101.217.15:1935/ilink/livekhu.sdp/chunklist.m3u8?wowzasessionid=1637875139
+http://stream.ssh101.com:1935/live/ppp1/playlist.m3u8
  
 #EXTINF:0,Lemar
 http://stream.ssh101.com:1935/live/ppp2/playlist.m3u8
@@ -32,3 +38,6 @@ http://atn.ercdn.net/atn.m3u8
  
 #EXTINF:0,Shamshad
 rtmp://cdn.ebound.tv/tv?wmsAuthSign=/shamshad
+
+#EXTINF:0,Maiwand
+http://180.222.142.6/videoPlayer/swfs/StrobeMediaPlayback.swf?src=http://180.222.142.6/hds-live/livepkgr/_definst_/liveevent/livestream.f4m
