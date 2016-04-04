@@ -56,3 +56,28 @@ http://x-media.mine.nu:58080/live/hichame/satlover.com/4.ts
 
 #EXTINF:-1,UK: Sky Sports 5
 http://x-media.mine.nu:58080/live/hichame/satlover.com/5.ts
+
+#EXTINF:-1,UK: Sky Sports 1 HD
+http://x-media.mine.nu:58080/live/hichame/satlover.com/22.ts
+#EXTINF:-1,UK: Sky Sports 2 HD
+http://x-media.mine.nu:58080/live/hichame/satlover.com/23.ts
+#EXTINF:-1,UK: Sky Sports 3 HD
+http://x-media.mine.nu:58080/live/hichame/satlover.com/24.ts
+#EXTINF:-1,UK: Sky Sports 4 HD
+http://x-media.mine.nu:58080/live/hichame/satlover.com/25.ts
+#EXTINF:-1,UK: Sky Sports 5 HD
+http://x-media.mine.nu:58080/live/hichame/satlover.com/26.ts
+
+
+#EXTINF:-1,UK: Nat Geo Channel
+http://x-media.mine.nu:58080/live/hichame/satlover.com/102.ts
+#EXTINF:-1,UK: National Geography Wild
+http://x-media.mine.nu:58080/live/hichame/satlover.com/101.ts
+#EXTINF:-1,UK: Discovery Channel
+http://x-media.mine.nu:58080/live/hichame/satlover.com/104.ts
+#EXTINF:-1,UK: Discovery History
+http://x-media.mine.nu:58080/live/hichame/satlover.com/105.ts
+#EXTINF:-1,UK: Discovery Science
+http://x-media.mine.nu:58080/live/hichame/satlover.com/106.ts
+#EXTINF:-1,UK: Discovery Turbo
+http://x-media.mine.nu:58080/live/hichame/satlover.com/107.ts
