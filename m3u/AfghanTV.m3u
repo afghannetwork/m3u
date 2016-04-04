@@ -1,0 +1,34 @@
+#EXTM3U
+#EXTINF:-1,[COLOR blue][I][B]»»---AfghanTV---««[/B][/I][/COLOR]
+http://0.0.0.0:1234
+ 
+#EXTINF:0,Tolo
+http://stream.ssh101.com:1935/live/ppp3/playlist.m3u8
+ 
+#EXTINF:0,Arezu
+http://38.101.217.15:1935/ilink/live.arezo/chunklist.m3u8?wowzasessionid=373629829
+ 
+#EXTINF:0,3 Sport
+http://nimplus3.giniko.com/3sporttv/3sporttv/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9NC8yLzIwMTYgOToyMDo1MCBBTSZoYXNoX3ZhbHVlPWhUNkh1dHFTa3RrM3lZeXNCVGRvTUE9PSZ2YWxpZG1pbnV0ZXM9MTQ0MA==
+http://38.101.217.15:1935/ilink/live3.stream/chunklist.m3u8?wowzasessionid=187280343
+ 
+#EXTINF:0,1TV
+http://38.101.217.15:1935/ilink/live1tv/media_82.ts?wowzasessionid=1992445668
+ 
+#EXTINF:0,Khorshid
+http://38.101.217.15:1935/ilink/livekhu.sdp/chunklist.m3u8?wowzasessionid=1637875139
+ 
+#EXTINF:0,Lemar
+http://stream.ssh101.com:1935/live/ppp2/playlist.m3u8
+ 
+#EXTINF:0,Tamadon
+rtmp://tamadonlive.nanocdn.com:1935/live/tamadon256
+ 
+#EXTINF:0,Kayhan
+rtmp://playout395.livestreamingcdn.com:1935/live/Stream1
+ 
+#EXTINF:0,Aryana
+http://atn.ercdn.net/atn.m3u8
+ 
+#EXTINF:0,Shamshad
+rtmp://cdn.ebound.tv/tv?wmsAuthSign=/shamshad
