@@ -69,10 +69,14 @@ http://x-media.mine.nu:58080/live/hichame/satlover.com/25.ts
 http://x-media.mine.nu:58080/live/hichame/satlover.com/26.ts
 
 
-#EXTINF:-1,UK: Nat Geo Channel
-http://iptvfast.dyndns.org:5969/live/dilaver2/dilaver2/554.ts
-#EXTINF:-1,UK: National Geography Wild
-http://x-media.mine.nu:58080/live/hichame/satlover.com/101.ts
+#EXTINF:-1,UK: Nat Geo Wild
+http://92.125.136.163:1234/udp/225.54.23.66:5000
+#EXTINF:-1,UK: National Geo Wild HD
+http://92.125.136.163:1234/udp/225.54.41.7:5000
+#EXTINF:-1,National Geographic Channel
+http://92.125.136.163:1234/udp/225.54.23.54:5000
+#EXTINF:-1,National Geographic HD
+http://92.125.136.163:1234/udp/225.54.41.6:5000
 #EXTINF:-1,UK: Discovery Channel
 http://x-media.mine.nu:58080/live/hichame/satlover.com/104.ts
 #EXTINF:-1,UK: Discovery History
