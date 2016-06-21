@@ -42,32 +42,24 @@ rtmp://cdn.ebound.tv/tv?wmsAuthSign=/shamshad
 #EXTINF:0,Maiwand
 http://180.222.142.6/videoPlayer/swfs/StrobeMediaPlayback.swf?src=http://180.222.142.6/hds-live/livepkgr/_definst_/liveevent/livestream.f4m
 
-#EXTINF:-1,UK: Sky Sports 1
-http://149.202.207.8:8080/sk1-94506afdjklfg/sallu/index.m3u8
-
-#EXTINF:-1,UK: Sky Sports 2
-http://149.202.207.8:8080/sk2-94506afdjklfg/sallu/index.m3u8
-
-#EXTINF:-1,UK: Sky Sports 3
-http://149.202.207.8:8080/sk3-94506afdjklfg/sallu/index.m3u8
-
-#EXTINF:-1,UK: Sky Sports 4
-http://149.202.207.8:8080/sk4-94506afdjklfg/sallu/index.m3u8
-
-#EXTINF:-1,UK: Sky Sports 5
-http://149.202.207.8:8080/sk5-94506afdjklfg/sallu/index.m3u8
-
-#EXTINF:-1,UK: Sky Sports 1 HD
-http://x-media.mine.nu:58080/live/hichame/satlover.com/22.ts
-#EXTINF:-1,UK: Sky Sports 2 HD
-http://x-media.mine.nu:58080/live/hichame/satlover.com/23.ts
-#EXTINF:-1,UK: Sky Sports 3 HD
-http://x-media.mine.nu:58080/live/hichame/satlover.com/24.ts
-#EXTINF:-1,UK: Sky Sports 4 HD
-http://x-media.mine.nu:58080/live/hichame/satlover.com/25.ts
-#EXTINF:-1,UK: Sky Sports 5 HD
-http://x-media.mine.nu:58080/live/hichame/satlover.com/26.ts
-
+#EXTINF:0,#EXTINF:-1,Sky Sports news
+http://666666.ddns.net:8000/fullhd/fullhd/3084
+#EXTINF:0,#EXTINF:-1,Sky Sports F1
+http://666666.ddns.net:8000/fullhd/fullhd/3085
+#EXTINF:0,#EXTINF:-1,Sky Sports 5 HD
+http://666666.ddns.net:8000/fullhd/fullhd/3087
+#EXTINF:0,#EXTINF:-1,Sky Sports 4 HD
+http://666666.ddns.net:8000/fullhd/fullhd/3089
+#EXTINF:0,#EXTINF:-1,Sky Sports 3 HD
+http://666666.ddns.net:8000/fullhd/fullhd/3091
+#EXTINF:0,#EXTINF:-1,Sky Sports 2 HD
+http://666666.ddns.net:8000/fullhd/fullhd/3092
+#EXTINF:0,#EXTINF:-1,Sky Sports 1 HD
+http://666666.ddns.net:8000/fullhd/fullhd/3094
+#EXTINF:0,#EXTINF:-1,Setanta Sports
+http://666666.ddns.net:8000/fullhd/fullhd/3095
+#EXTINF:0,#EXTINF:-1,BT Sport
+http://666666.ddns.net:8000/fullhd/fullhd/3099
 
 #EXTINF:-1,UK: Nat Geo Wild
 http://92.125.136.163:1234/udp/225.54.23.66:5000
