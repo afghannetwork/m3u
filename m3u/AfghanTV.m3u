@@ -42,38 +42,15 @@ rtmp://cdn.ebound.tv/tv?wmsAuthSign=/shamshad
 #EXTINF:0,Maiwand
 http://180.222.142.6/videoPlayer/swfs/StrobeMediaPlayback.swf?src=http://180.222.142.6/hds-live/livepkgr/_definst_/liveevent/livestream.f4m
 
-#EXTINF:0,#EXTINF:-1,Sky Sports news
-http://666666.ddns.net:8000/fullhd/fullhd/3084
-#EXTINF:0,#EXTINF:-1,Sky Sports F1
-http://666666.ddns.net:8000/fullhd/fullhd/3085
-#EXTINF:0,#EXTINF:-1,Sky Sports 5 HD
-http://666666.ddns.net:8000/fullhd/fullhd/3087
-#EXTINF:0,#EXTINF:-1,Sky Sports 4 HD
-http://666666.ddns.net:8000/fullhd/fullhd/3089
-#EXTINF:0,#EXTINF:-1,Sky Sports 3 HD
-http://666666.ddns.net:8000/fullhd/fullhd/3091
-#EXTINF:0,#EXTINF:-1,Sky Sports 2 HD
-http://666666.ddns.net:8000/fullhd/fullhd/3092
-#EXTINF:0,#EXTINF:-1,Sky Sports 1 HD
-http://666666.ddns.net:8000/fullhd/fullhd/3094
-#EXTINF:0,#EXTINF:-1,Setanta Sports
-http://666666.ddns.net:8000/fullhd/fullhd/3095
-#EXTINF:0,#EXTINF:-1,BT Sport
-http://666666.ddns.net:8000/fullhd/fullhd/3099
-
-#EXTINF:-1,UK: Nat Geo Wild
-http://92.125.136.163:1234/udp/225.54.23.66:5000
-#EXTINF:-1,UK: National Geo Wild HD
-http://92.125.136.163:1234/udp/225.54.41.7:5000
-#EXTINF:-1,National Geographic Channel
-http://92.125.136.163:1234/udp/225.54.23.54:5000
-#EXTINF:-1,National Geographic HD
-http://92.125.136.163:1234/udp/225.54.41.6:5000
-#EXTINF:-1,UK: Discovery Channel
-http://x-media.mine.nu:58080/live/hichame/satlover.com/104.ts
-#EXTINF:-1,UK: Discovery History
-http://x-media.mine.nu:58080/live/hichame/satlover.com/105.ts
-#EXTINF:-1,UK: Discovery Science
-http://x-media.mine.nu:58080/live/hichame/satlover.com/106.ts
-#EXTINF:-1,UK: Discovery Turbo
-http://x-media.mine.nu:58080/live/hichame/satlover.com/107.ts
+#EXTINF:0,SKY Sport 1 HD (uk)
+http://iptv.nbrz.ru:9705/live/fcb:ALB_TV_SYSTEMS/TESTIPVFULL/57.ts
+#EXTINF:0,SKY Sport 2 HD (uk)
+http://iptv.nbrz.ru:9705/live/fcb:ALB_TV_SYSTEMS/TESTIPVFULL/58.ts
+#EXTINF:0,SKY FOX CRIME HD
+http://iptv.nbrz.ru:9705/live/fcb:ALB_TV_SYSTEMS/TESTIPVFULL/744.ts
+#EXTINF:0,SKY Sport 3 HD (uk)
+http://iptv.nbrz.ru:9705/live/fcb:ALB_TV_SYSTEMS/TESTIPVFULL/59.ts
+#EXTINF:0,SKY Sport 4 HD (uk)
+http://iptv.nbrz.ru:9705/live/fcb:ALB_TV_SYSTEMS/TESTIPVFULL/60.ts
+#EXTINF:0,SKY Sport 5 HD (uk)
+http://iptv.nbrz.ru:9705/live/fcb:ALB_TV_SYSTEMS/TESTIPVFULL/61.ts
